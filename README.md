@@ -25,17 +25,17 @@ Welcome to my GitHub profile!
 
 Here are some of my works:
 
-* 🔹 *Project Name 1* – Short description
-* 🔹 *Project Name 2* – Short description
-* 🔹 *Project Name 3* – Short description
+* 🔹 *Project Name 1
+* 🔹 *Project Name 2
+* 🔹 *Project Name 3
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
-* 🌐 Portfolio: *your-website-link*
-* 💼 LinkedIn: *your-linkedin-profile*
+* 📧 Email: adilarshack2396@gmail.com
+* 🌐 Portfolio: 
+* 💼 LinkedIn: www.linkedin.com/in/adil-arshack-162bb63b4
 
 ---
 
