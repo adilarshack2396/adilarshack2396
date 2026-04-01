@@ -21,16 +21,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📂 Projects
-
-Here are some of my works:
-
-* 🔹 *Project Name 1
-* 🔹 *Project Name 2
-* 🔹 *Project Name 3
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: adilarshack2396@gmail.com
